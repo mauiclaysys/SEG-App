@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Rewards_page.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Rewards_page"
+    xmlns:views="clr-namespace:Rewards_page.Views">
+
+    <TabBar>
+        <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Icon="{FontImage FontFamily=FAS, Glyph=&#xf015;}" />
+        <ShellContent
+        Title="Ad"
+        ContentTemplate="{DataTemplate views:AdPage}"
+        Icon="{FontImage FontFamily=FAS, Glyph=&#xf02b;}" />
+        <ShellContent
+        Title="Rewards"
+        ContentTemplate="{DataTemplate views:RewardsPage}"
+        Icon="{FontImage FontFamily=FAS, Glyph=&#xf0c4;}"  />
+        <ShellContent
+        Title="List"
+        ContentTemplate="{DataTemplate views:ListPage}"
+        Icon="{FontImage FontFamily=FAS,  Glyph=&#xf46d; }" />
+        <ShellContent
+        Title="More"
+        ContentTemplate="{DataTemplate views:MorePage}"
+        Icon="{FontImage FontFamily=FAS, Glyph=&#xf141;}" />
+    </TabBar>
+</Shell>

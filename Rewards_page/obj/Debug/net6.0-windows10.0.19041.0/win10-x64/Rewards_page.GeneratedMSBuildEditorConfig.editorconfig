@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Rewards_page
+build_property.ProjectDir = C:\Users\bhirundha.k\source\repos\Rewards_page\Rewards_page\
+
+[C:/Users/bhirundha.k/source/repos/Rewards_page/Rewards_page/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Rewards_page.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/bhirundha.k/source/repos/Rewards_page/Rewards_page/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Rewards_page.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/bhirundha.k/source/repos/Rewards_page/Rewards_page/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Rewards_page.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/bhirundha.k/source/repos/Rewards_page/Rewards_page/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Rewards_page.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/bhirundha.k/source/repos/Rewards_page/Rewards_page/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Rewards_page.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/bhirundha.k/source/repos/Rewards_page/Rewards_page/Views/AdPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Rewards_page.Views.AdPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AdPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AdPage.xaml
+
+[C:/Users/bhirundha.k/source/repos/Rewards_page/Rewards_page/Views/ListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Rewards_page.Views.ListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ListPage.xaml
+
+[C:/Users/bhirundha.k/source/repos/Rewards_page/Rewards_page/Views/MorePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Rewards_page.Views.MorePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MorePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MorePage.xaml
+
+[C:/Users/bhirundha.k/source/repos/Rewards_page/Rewards_page/Views/RewardsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Rewards_page.Views.RewardsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RewardsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RewardsPage.xaml
